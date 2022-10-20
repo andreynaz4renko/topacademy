@@ -99,37 +99,37 @@
 
 Открываем любую удобную папку, где будем хранить проекты. Для примера - ```Рабочий стол (Desktop)```, но лучше создать отдельную
 
-![](/screen/first/Screenshot_2.png)
-
 Нажимаем правой кнопкой мыши в пустом месте, выбираем ```Создать (New)``` -> ```Папку (Folder)```
 
-![](/screen/first/Screenshot_3.png)
+![](/screen/first/Screenshot_2.png)
 
 Называем папку латиницей, например ```main```. Нажимаем ```Выбрать папку (Select Folder)```
 
-![](/screen/first/Screenshot_4.png)
+![](/screen/first/Screenshot_3.png)
 
 Нажимаем ```Создать файл```
 
-![](/screen/first/Screenshot_5.png)
+![](/screen/first/Screenshot_4.png)
 
 Называем файл ```main.py```, например. Обязательно расширение (после точки) ```py```
 
-![](/screen/first/Screenshot_6.png)
+![](/screen/first/Screenshot_5.png)
 
 Нажимаем ```F5``` для запуска. Выбираем ```Файл Python```
 
-![](/screen/first/Screenshot_7.png)
+![](/screen/first/Screenshot_6.png)
 
 Нажимаем ```создайте файл launch.json```
 
-![](/screen/first/Screenshot_8.png)
+![](/screen/first/Screenshot_7.png)
 
 Выбираем ```Файл Python```
 
-![](/screen/first/Screenshot_9.png)
+![](/screen/first/Screenshot_8.png)
 
 Закрываем созданный файл
+
+![](/screen/first/Screenshot_9.png)
 
 Можно написать внутри файла ```main.py``` следующий код:
 
