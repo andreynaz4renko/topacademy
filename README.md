@@ -1,4 +1,4 @@
-# Установка Python, Visual Studio Code, запуск первой программы
+# Установка Python, Visual Studio Code
 
 ## 1. Скачивание Python
 
