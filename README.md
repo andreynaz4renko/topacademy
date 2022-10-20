@@ -62,3 +62,28 @@
 Нажимаем ```Install```
 
 ![Нажимаем ```Install```](/screen/Screenshot_10.png)
+
+
+# 5. Добавление Python в VS Code
+
+Открываем VS Code
+
+Нажимаем ```Extensions```
+
+![Нажимаем ```Extensions```](/screen/Screenshot_11.png)
+
+Вводим ```Python```
+
+![Вводим ```Python```](/screen/Screenshot_12.png)
+
+Нажимаем ```Install```
+
+![Нажимаем ```Install```](/screen/Screenshot_13.png)
+
+Вводим ```Russian```
+
+![Вводим ```Russian```](/screen/Screenshot_14.png)
+
+Нажимаем ```Install```
+
+![Нажимаем ```Install```](/screen/Screenshot_15.png)
