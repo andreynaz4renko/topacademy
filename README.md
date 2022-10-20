@@ -74,16 +74,12 @@
 
 Вводим ```Python```
 
-![Вводим ```Python```](/screen/Screenshot_12.png)
-
 Нажимаем ```Install```
 
-![Нажимаем ```Install```](/screen/Screenshot_13.png)
+![Вводим ```Python```](/screen/Screenshot_12.png)
 
 Вводим ```Russian```
 
-![Вводим ```Russian```](/screen/Screenshot_14.png)
-
 Нажимаем ```Install```
 
-![Нажимаем ```Install```](/screen/Screenshot_15.png)
+![Вводим ```Russian```](/screen/Screenshot_13.png)
