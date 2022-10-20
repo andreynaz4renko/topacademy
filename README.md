@@ -83,3 +83,5 @@
 Нажимаем ```Install```
 
 ![Вводим ```Russian```](/screen/Screenshot_13.png)
+
+Перезапускаем Visual Studio Code
